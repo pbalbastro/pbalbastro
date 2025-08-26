@@ -1,6 +1,6 @@
 # Hi there, I'm Patrick 👋
 
-💻 **QA Automation & Software Security Engineer**  
+💻 **Test Automation Engineer**  
 🔧 Skilled in: Playwright, Selenium, C#, NUnit, SQL  
 ☁️ Exploring: DevOps (Docker, Kubernetes, CI/CD)
 
