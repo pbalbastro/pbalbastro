@@ -7,15 +7,8 @@
 ---
 
 ## 🚀 Featured Projects
-- [UI Test Automation (Playwright + C#)](https://github.com/yourusername/playwright-ui-automation)  
-  End-to-end tests with Page Object Model and Allure Reports.
-
-- [API Testing Automation](https://github.com/yourusername/api-tests-nunit)  
-  REST API tests with NUnit and CI/CD integration.
-
-- [Automation Pipeline (GitHub Actions)](https://github.com/yourusername/automation-pipeline)  
-  Automated test pipeline with reporting.
-
+- [UI Test Automation (Playwright + TypeScript)](https://github.com/pbalbastro/sample-test)  
+  End-to-end tests with Page Object Model
 ---
 
 ## ⚡ Tech Stack
