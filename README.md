@@ -22,6 +22,5 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/patrick-balbastro/)
+- [Email](mailto:patrickbalbastro@gmail.com)
