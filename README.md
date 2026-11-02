@@ -9,6 +9,8 @@
 ## 🚀 Featured Projects
 - [UI Test Automation (Playwright + TypeScript)](https://github.com/pbalbastro/sample-test)  
   End-to-end tests with Page Object Model
+- [GPX Overlay Studio](https://github.com/pbalbastro/gpx-overlay-studio)
+  A static web app that turns a .gpx file into transparent PNG activity overlays: stats, a route trace and a wordmark, styled after Strava's share stickers.
 ---
 
 ## ⚡ Tech Stack
