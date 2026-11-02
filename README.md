@@ -2,6 +2,7 @@
 
 💻 **Test Automation Engineer**  
 🔧 Skilled in: Playwright, Selenium, C#, NUnit, SQL, AI-First approach automation
+
 ☁️ Exploring: DevOps (Docker, Kubernetes, CI/CD)
 
 ---
